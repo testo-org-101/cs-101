@@ -6,5 +6,5 @@ This lesson focuses on teaching students about basic data structures and algorit
 Understand basic data structures
 Design and implement basic algorithms
 
-## Topics
-undefined
+## Topics Covered
+Introduction to data structures, Fundamentals of algorithms

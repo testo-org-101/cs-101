@@ -6,5 +6,5 @@ This lesson introduces basic programming concepts. Students learn how to write, 
 Describe the process of programming
 Write and debug simple programs
 
-## Topics
-undefined
+## Topics Covered
+Fundamental programming concepts, Writing and debugging simple programs

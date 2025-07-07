@@ -6,5 +6,5 @@ In this initial lesson, students learn what computer science is, including its h
 Define computer science
 Explain the importance of computer science
 
-## Topics
-undefined
+## Topics Covered
+Definition of computer science, History of computer science
